@@ -1,0 +1,23 @@
+.card-body {
+    padding: 2rem;
+  }
+  
+  .card h5 {
+    margin-top: 1.5rem;
+    color: #28a745; /* Green color */
+  }
+  
+  .card-body p {
+    font-size: 1.1rem; /* Increased font size */
+    line-height: 1.6; /* Improved readability */
+  }
+  
+  h2.text-center {
+    color: #28a745; /* Green color */
+    margin-bottom: 2rem;
+    font-size: 2rem;
+    border-bottom: 2px solid #28a745; /* Green color */
+    display: inline-block;
+    padding-bottom: 0.5rem;
+  }
+  
